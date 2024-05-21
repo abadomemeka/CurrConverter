@@ -1,0 +1,22 @@
+.card-custom {
+    max-width: 400px;
+    margin: auto;
+  }
+
+  .form-control-custom {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+  }
+
+  .btn-custom {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+  }
+
+  .card {
+    background: #f7f4f0;
+    /* background: -webkit-linear-gradient(to right, #0b66ee, #1d73f5, #3a84f1, #8bb5f5);
+    background: linear-gradient(to right, #0b66ee, #1d73f5, #3a84f1, #8bb5f5); */
+    }
